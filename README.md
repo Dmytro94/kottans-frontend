@@ -1,9 +1,12 @@
 ## Stage 0.
 
-# Hi, everybody.
-My name is Dmytro and it's a big honour to study front-end with you!
+# Git та GitHub
+Git - це моща! Основа основ для розробника. Git'а мало не буває, і це правда.
+Лише практика-практика-практика доведе все до автоматизму. Роки йдуть але git add, git status, git commit - стабільні.
+
 
 # Linux CLI, and HTTP
 ![Alt text](https://github.com/Dmytro94/kottans-frontend/blob/main/task_linux_cli/screenshot_linux.PNG)
 
 Ніколи не працював з Linux саме тому багато команд були новими. Після проходження завдань перші кроки у разі можливої роботи на Linux будуть набагато легшими, особливо сподобалась можливість швидкого керування друком та копіювання файлів/папок.
+По HTTP більшість інформації мені вже було відомо, однак, на даний час не знаю де буду використовувати ці знання на практиці.
