@@ -12,6 +12,6 @@ Git - це сила! Основа основ для розробника. Git'а
 По HTTP більшість інформації мені вже було відомо, однак, на даний час не знаю де буду використовувати ці знання на практиці.
 
 ## Git Collaboration
-![Alt text](https://github.com/Dmytro94/kottans-frontend/blob/main/VCS%20(hello%20gitty)%2C%20GitHub%20and%20Collaboration/screenshot_git.PNG)
+![Alt text](https://github.com/Dmytro94/kottans-frontend/blob/main/task_git_collaboration/screenshot_git.PNG)
 
 Лише практика допоможе оволодіти всіма навичками Git.
